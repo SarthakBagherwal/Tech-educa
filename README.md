@@ -1,3 +1,4 @@
 # Tech-educa
 Navbar and Hero section of UI of project.
-[Screenshot (50)](https://user-images.githubusercontent.com/107615912/205315729-bb3b00b6-f8a2-459b-8ce8-01a095633698.png)
+
+![Screenshot (50)](https://user-images.githubusercontent.com/107615912/205316916-2ba94995-1db7-467f-b5f7-a118283e5ae8.png)
