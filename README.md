@@ -4,7 +4,7 @@ Features :--
 
 1. Fully Responsive Website Design.
 2. After completeing this project you will cover all the topics like grid , forms , @mediaqueries etc...
-3. Easy to understand project.
+3. Code of the project is easy to understand.
 
 Steps for opening project :---
 
